@@ -48,6 +48,9 @@ const FrontPage = () => {
                             <img
                                 src={logo}
                                 alt="Bevar Svankevigå logo"
+                                style={{
+                                    maxWidth: '100%'
+                                }}
                             />
                         </Box>
                         <Typography
